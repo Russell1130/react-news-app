@@ -35,4 +35,4 @@ To change this, you can edit "APP_ENDPOINT" in src/global/constants.js
 
 That's all
 
-Thanks all.
+Thanks for reading.
