@@ -1,5 +1,5 @@
 <p></p>
-<h1 style="font-weight:bold">The Frontend for News App Test Project</h1>
+<h1 style="font-weight:bold">The Frontend for News App</h1>
 
 ## About Project
 <h4>1. User authentication and registration:</h4>
